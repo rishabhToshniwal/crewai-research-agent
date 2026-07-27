@@ -44,6 +44,10 @@ cp .env.example .env   # then add OPENAI_API_KEY
 uv run python app.py
 ```
 
+## Example output
+
+![Gradio UI showing a company research report for Microsoft Corporation](./images/output.png)
+
 ## Docs
 
 - CrewAI: https://docs.crewai.com
