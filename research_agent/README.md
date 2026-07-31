@@ -46,7 +46,7 @@ uv run python app.py
 
 ## Example output
 
-![Gradio UI showing a company research report for Microsoft Corporation](../images/output.png)
+![Gradio UI showing a company research report for Microsoft Corporation](images/output.png)
 
 ## Docs
 
